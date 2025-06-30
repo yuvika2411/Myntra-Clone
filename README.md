@@ -4,9 +4,9 @@ A fully responsive clone of the Myntra website built using HTML, CSS, and JavaSc
 
 
 ## 🛠️ Tech Stack
-✅ HTML5 – Semantic page structure
+✅ HTML – Semantic page structure
 
-✅ CSS3 – Custom styling and responsive layout
+✅ CSS – Custom styling and responsive layout
 
 ✅ JavaScript (Vanilla) – UI interactivity and dynamic behavior
 
